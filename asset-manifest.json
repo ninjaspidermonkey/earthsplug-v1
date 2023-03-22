@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e72ef8de.css",
+    "main.js": "/static/js/main.7fa6dfaf.js",
+    "static/media/IMG_4158.jpg": "/static/media/IMG_4158.907fda9e5bdec35cb978.jpg",
+    "static/media/seamoss-pic-rawmoss-1.jpeg": "/static/media/seamoss-pic-rawmoss-1.0e825788a01dad06fb93.jpeg",
+    "index.html": "/index.html",
+    "main.e72ef8de.css.map": "/static/css/main.e72ef8de.css.map",
+    "main.7fa6dfaf.js.map": "/static/js/main.7fa6dfaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e72ef8de.css",
+    "static/js/main.7fa6dfaf.js"
+  ]
+}
