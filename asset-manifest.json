@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/earthsplug-v1/static/css/main.e72ef8de.css",
-    "main.js": "/earthsplug-v1/static/js/main.8563a942.js",
+    "main.js": "/earthsplug-v1/static/js/main.f123cd86.js",
     "static/media/IMG_4158.jpg": "/earthsplug-v1/static/media/IMG_4158.907fda9e5bdec35cb978.jpg",
     "static/media/seamoss-pic-rawmoss-1.jpeg": "/earthsplug-v1/static/media/seamoss-pic-rawmoss-1.0e825788a01dad06fb93.jpeg",
     "index.html": "/earthsplug-v1/index.html",
     "main.e72ef8de.css.map": "/earthsplug-v1/static/css/main.e72ef8de.css.map",
-    "main.8563a942.js.map": "/earthsplug-v1/static/js/main.8563a942.js.map"
+    "main.f123cd86.js.map": "/earthsplug-v1/static/js/main.f123cd86.js.map"
   },
   "entrypoints": [
     "static/css/main.e72ef8de.css",
-    "static/js/main.8563a942.js"
+    "static/js/main.f123cd86.js"
   ]
 }
