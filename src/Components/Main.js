@@ -66,7 +66,7 @@ const MainWrapper = styled.div`
         width: 100%;
         padding: 20vh 0;
         .space {
-            padding: 2rem;
+            padding: 2rem 0;
         }
     }
 `;
