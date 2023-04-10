@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e72ef8de.css",
-    "main.js": "/static/js/main.3ff40d66.js",
+    "main.css": "/static/css/main.4fb9a162.css",
+    "main.js": "/static/js/main.be9aac90.js",
+    "static/media/bowlImg.jpeg": "/static/media/bowlImg.7bbd11de72a9d29e3e6d.jpeg",
     "static/media/IMG_4158.jpg": "/static/media/IMG_4158.907fda9e5bdec35cb978.jpg",
     "static/media/seamoss-pic-rawmoss-1.jpeg": "/static/media/seamoss-pic-rawmoss-1.0e825788a01dad06fb93.jpeg",
+    "static/media/undraw_healthy_lifestyle_re_ifwg 1.svg": "/static/media/undraw_healthy_lifestyle_re_ifwg 1.e41494534e7ac0f79d2d49e3e2a3977b.svg",
+    "static/media/undraw_diet_ghvw.svg": "/static/media/undraw_diet_ghvw.6e74ed1e06984cec85a537551eed8862.svg",
     "index.html": "/index.html",
-    "main.e72ef8de.css.map": "/static/css/main.e72ef8de.css.map",
-    "main.3ff40d66.js.map": "/static/js/main.3ff40d66.js.map"
+    "main.4fb9a162.css.map": "/static/css/main.4fb9a162.css.map",
+    "main.be9aac90.js.map": "/static/js/main.be9aac90.js.map"
   },
   "entrypoints": [
-    "static/css/main.e72ef8de.css",
-    "static/js/main.3ff40d66.js"
+    "static/css/main.4fb9a162.css",
+    "static/js/main.be9aac90.js"
   ]
 }
