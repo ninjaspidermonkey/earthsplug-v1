@@ -43,6 +43,8 @@ const MainWrapper = styled.div`
     #products {
         width: 100%;
         background: linear-gradient(180deg, #F5F5F5 0%, #F1F1F1 100%);
+        li {
+        }
         .two-col {
         }
         .col1 {
@@ -123,7 +125,6 @@ const MainWrapper = styled.div`
             font-size: .8rem;
             text-align: center;
         }
-        }
         .col {
             padding: 5%;
             margin: auto;
@@ -140,7 +141,6 @@ const MainWrapper = styled.div`
             margin: 0 20px;
         }
     }
-
 `;
 
 const Main = () => {
@@ -158,7 +158,7 @@ const Main = () => {
                             >
                                 <Link
                                     className='pad-link'
-                                    activeClass='active'
+                                    activeClass='active style'
                                     to="products"
                                     spy={true}
                                     smooth={true}
@@ -179,7 +179,7 @@ const Main = () => {
                                 <Link
                                     className='pad-link'
                                     activeClass='active'
-                                    to="goal"
+                                    to="footer"
                                     spy={true}
                                     smooth={true}
                                     offset={0}
@@ -219,31 +219,24 @@ const Main = () => {
                     <div className="two-col">
                         <div className="col1">
                         <h3>Purple Chondrus Crispus</h3>
-                        <p className='small-p'>$17.99 each</p>
                         <br/>
                         <p>Earth's Plug's signature hand-picked natural & organic Irish moss</p>
                         <br/>
                         <p>Our moss is delivered to you already washed, prepared in a jar, and ready for consumption.</p>
                         <br/><br/>
-                        <h4>Flavors</h4>
-                        <p className='half-opacity small-p'>options available during checkout</p>
+                        <h4>Shop flavors</h4>
                         <br/>
                         <ul>
-                            <li>Regular</li>
-                            <li>Ginger</li>
-                            <li>Cinnamon</li>
-                            <li>Honey</li>
-                            <li>Turmeric</li>
+                            <li><a href="https://buy.stripe.com/4gwfZL8SocJk8WA6oo">Regular</a></li>
+                            <li><a href="https://buy.stripe.com/cN28xjecI6kW1u8eV0">Ginger & Cinnamon</a></li>
+                            <li><a href="https://buy.stripe.com/8wM14R1pWcJk6OseUZ">Ginger & Honey</a></li>
+                            <li><a href="https://buy.stripe.com/dR600NfgM5gS3Cg7sw">Honey & Cinnamon</a></li>
+                            <li><a href="https://buy.stripe.com/eVa9Bn8So8t4dcQ9AD">Ginger infused</a></li>
+                            <li><a href="https://buy.stripe.com/eVa7tf6KgbFg0q4dQS">Cinnamon infused</a></li>
+                            <li><a href="https://buy.stripe.com/5kAbJvgkQeRs7SwfYZ">Honey infused</a></li>
                         </ul>
                         <br/>
                         <br/>
-                        <div className="btns">
-                            <button
-                                className='btn-pri'
-                                onClick={ () => window.location.href='https://buy.stripe.com/4gwfZL8SocJk8WA6oo'}
-                            >purchase
-                            </button>
-                        </div>
                         </div>
                         <div className="col2">
                             <img src={jarpic1} alt="Earth's Plug's jar of organic Chondrus Crispus" />

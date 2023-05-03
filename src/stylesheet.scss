@@ -25,6 +25,7 @@ p {
 h1 {
     font-size: 3.5rem;
     line-height: 50px;
+    font-weight: 700;
 }
 
 h2 {
@@ -41,9 +42,11 @@ h4 {
 
 a {
     color:#260101;
+    font-weight: 600;
     text-decoration: none;
     &:hover {
         color: #260101;
+        cursor: pointer;
     }
 }
 
