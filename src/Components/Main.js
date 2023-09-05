@@ -223,20 +223,19 @@ const Main = () => {
                         <p>Earth's Plug's signature hand-picked natural & organic Irish moss</p>
                         <br/>
                         <p>Our moss is delivered to you already washed, prepared in a jar, and ready for consumption.</p>
-                        <br/><br/>
+                        <br/>
+                        <a href="https://buy.stripe.com/bIY9Bnc4A9x85KobIV"><button className="btn-pri">Purchase</button></a>
+                        <br/><br/><br/>
                         <h4>Shop flavors</h4>
                         <br/>
                         <ul>
-                            <li><a href="https://buy.stripe.com/4gwfZL8SocJk8WA6oo">Regular</a></li>
-                            <li><a href="https://buy.stripe.com/cN28xjecI6kW1u8eV0">Ginger & Cinnamon</a></li>
-                            <li><a href="https://buy.stripe.com/8wM14R1pWcJk6OseUZ">Ginger & Honey</a></li>
-                            <li><a href="https://buy.stripe.com/dR600NfgM5gS3Cg7sw">Honey & Cinnamon</a></li>
-                            <li><a href="https://buy.stripe.com/eVa9Bn8So8t4dcQ9AD">Ginger infused</a></li>
-                            <li><a href="https://buy.stripe.com/eVa7tf6KgbFg0q4dQS">Cinnamon infused</a></li>
-                            <li><a href="https://buy.stripe.com/5kAbJvgkQeRs7SwfYZ">Honey infused</a></li>
+                            <li><a href="https://buy.stripe.com/5kAaFr2u07p06Os8wI">Ginger & Cinnamon</a></li>
+                            <li><a href="https://buy.stripe.com/9AQ3cZd8EfVw4Gk4gq">Ginger & Honey</a></li>
+                            <li><a href="https://buy.stripe.com/9AQ6pbfgMcJk1u8cMX">Honey & Cinnamon</a></li>
+                            <li><a href="https://buy.stripe.com/dR66pbfgM10C1u83cl">Ginger infused</a></li>
+                            <li><a href="https://buy.stripe.com/9AQ6pbd8E5gS8WA28g">Cinnamon infused</a></li>
+                            <li><a href="https://buy.stripe.com/28ocNzecIaBcdcQbIP">Honey infused</a></li>
                         </ul>
-                        <br/>
-                        <br/>
                         </div>
                         <div className="col2">
                             <img src={jarpic1} alt="Earth's Plug's jar of organic Chondrus Crispus" />
